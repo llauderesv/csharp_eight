@@ -1,3 +1,3 @@
-# C# Code Snippets, Patterns and New Coding style
+# C# 8.0 Essentials
 
-My collection of code snippets, patterns and coding style in c#.
+Collection of code snippets, patterns and new coding style in new C# 8.0 features.
