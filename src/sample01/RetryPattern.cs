@@ -2,10 +2,10 @@ using System;
 using System.Threading.Tasks;
 using static System.Console;
 
-namespace csharp_eight.src.Helpers
+namespace csharp_eight.src.sample01
 {
-    // Retry pattern with
-    public static class AsyncHelpers
+    // Retrying block of code
+    public static class RetryPattern
     {
         public static async Task<T> Retry<T>(Func<Task<T>> action, int retryCount)
         {
